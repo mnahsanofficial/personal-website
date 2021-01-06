@@ -93,7 +93,7 @@ h1,h2{
 }
 #left{
     float: left;
-    text-align: center;
+    padding-left: 100px;
 }
 #right{
     float: right;
